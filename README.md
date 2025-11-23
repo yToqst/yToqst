@@ -28,8 +28,8 @@ These are the programming languages I’ve used in recent years (not all are lis
 ![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=ff4d4d)
 ![Batchfile](https://img.shields.io/badge/Batchfile-1a1a1a?style=for-the-badge&logo=windows&logoColor=ff4d4d)
 ![Python3](https://img.shields.io/badge/Python3-1a1a1a?style=for-the-badge&logo=python&logoColor=ff4d4d)
-![CSS](https://img.shields.io/badge/CSS-1a1a1a?style=for-the-badge&logo=css3&logoColor=ff4d4d)
 ![JAVA](https://img.shields.io/badge/JAVA-1a1a1a?style=for-the-badge&logo=java&logoColor=ff4d4d)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=ff4d4d)
 - ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=ff4d4d) (impostor)
 
 ---
