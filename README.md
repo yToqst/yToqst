@@ -17,6 +17,7 @@ Former Lead Developer of InfinityLand (aka DropCraft) with a member count of 600
 
 I speak Spanish, English, and Tagalog.
 
+Design credits to: M4theuskkj
 ---
 
 ## Programming Languages I've used 
