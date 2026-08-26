@@ -3,14 +3,6 @@
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yToqst&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4d4d&icon_color=ff6666&text_color=ffffff&include_all_commits=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yToqst&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4d4d&text_color=ffffff" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yToqst&theme=dark&hide_border=true&background=0d1117&ring=ff4d4d&fire=ff6666&currStreakLabel=ff4d4d" alt="GitHub Streak"/>
 </p>
 
@@ -48,8 +40,6 @@ I tend to jump between projects, languages, and ideas depending on what I'm curr
 ## What I Build
 
 [<img align="left" width="390" alt="GitHub statistics" src="https://github-stats-alpha.vercel.app/api/?username=yToqst&cc=000000&tc=ff4d4d&ic=ff6666&bc=801515">](https://github.com/yToqst)
-
-[<img align="right" width="390" alt="GitHub contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yToqst&bg_color=0d1117&color=ffffff&line=ff4d4d&point=ff6666&area=true&hide_border=true">](https://github.com/yToqst)
 
 <br clear="both">
 
@@ -276,7 +266,6 @@ Status:
 
 [<img align="left" width="390" alt="GitHub statistics" src="https://github-stats-alpha.vercel.app/api/?username=yToqst&cc=000000&tc=ff4d4d&ic=ff6666&bc=801515">](https://github.com/yToqst)
 
-[<img align="right" width="390" alt="GitHub contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yToqst&bg_color=0d1117&color=ffffff&line=ff4d4d&point=ff6666&area=true&hide_border=true">](https://github.com/yToqst)
 
 <br clear="both">
 
