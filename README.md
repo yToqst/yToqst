@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yToqst&theme=dark&hide_border=true&background=0d1117&ring=ff4d4d&fire=ff6666&currStreakLabel=ff4d4d" alt="GitHub Streak"/>
+  <a href="https://github.com/yToqst">
+    <img width="390" alt="GitHub statistics" src="https://github-stats-alpha.vercel.app/api/?username=yToqst&cc=000000&tc=ff4d4d&ic=ff6666&bc=801515">
+  </a>
 </p>
 
 I'm **yToqst**, a self-taught developer building across web, Android, Minecraft, backend systems, and low-level software. I'm usually working on something, breaking something, or figuring out why something I wrote yesterday stopped working.
@@ -70,9 +72,7 @@ Check out my [repositories](https://github.com/yToqst?tab=repositories) and [pro
 </p>
 
 <p align="center">
-  <a href="https://github.com/yToqst">
-    <img width="390" alt="GitHub statistics" src="https://github-stats-alpha.vercel.app/api/?username=yToqst&cc=000000&tc=ff4d4d&ic=ff6666&bc=801515">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yToqst&theme=dark&hide_border=true&background=0d1117&ring=ff4d4d&fire=ff6666&currStreakLabel=ff4d4d" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
