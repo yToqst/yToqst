@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/yToqst">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=FF4D4D&center=true&vCenter=true&width=600&height=30&lines=Minecraft+server+software+developer;Reverse+Engineer;Software+Developer;Student+at+Unknown;You%27re+never+gonna+find+my+location" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=FF4D4D&center=true&vCenter=true&width=600&height=30&lines=Minecraft+server+software+developer;Reverse+Engineerer;Software+Developer;Student+at+Unknown;You%27re+never+gonna+find+my+location" alt="Typing animation"/>
   </a>
 </p>
 
