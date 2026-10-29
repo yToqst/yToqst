@@ -12,7 +12,7 @@
   </a>
 </p>
 
-I'm **yToqst**, a self-taught developer building across web, Android, Minecraft, backend systems, and low-level software. I'm usually working on something, breaking something, or figuring out why something I wrote yesterday stopped working.
+I'm **yToqst**, a self-taught developer building across web, Android, Minecraft, backend systems, and low-level software. I'm usually working on web and android applications and minecraft server softwares when i have a free time. additionally, I like building minecraft server hostings, I'm currently busy developing one.
 
 Check out my [repositories](https://github.com/yToqst?tab=repositories) and [projects](https://github.com/yToqst?tab=projects).
 
